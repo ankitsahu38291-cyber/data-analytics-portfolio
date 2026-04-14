@@ -16,3 +16,6 @@ Week 1	Sales Data Analysis	Excel	✅ Done
 Contact
 
 Email: ankitsahu65781@gmail.com
+
+## week 1 project [view project]
+week1-excel/week1-excel placeholder.txt
