@@ -1,0 +1,23 @@
+# Week 2 — Sales Dashboard (Excel)
+
+## Project Overview
+Multi-sheet Excel dashboard with advanced formulas
+and charts for sales data analysis.
+
+## What I Built
+- 3-sheet workbook: RawData, Analysis, Dashboard
+- SUMIF: Region-wise sales breakdown
+- COUNTIF: Order count per salesperson
+- SUMIFS: Month + Region combined analysis
+- Nested IF: Product performance rating
+- INDEX+MATCH: Auto best region/seller finder
+- 2 Charts: Bar + Column visualization
+
+## Key Findings
+- Total Sales: Rs 7,16,000
+- Best Region: North (Rs 2,27,000)
+- Top Salesperson: Priya (Rs 2,84,000)
+- Best Product: Laptop (Excellent rating)
+
+## Tools
+Microsoft Excel | Advanced Formulas | Charts
